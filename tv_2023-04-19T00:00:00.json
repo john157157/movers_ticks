@@ -1,0 +1,355 @@
+[
+    {
+        "symbol": "ASNS",
+        "company": "Actelis Networks, Inc.",
+        "change_pct": 788.89,
+        "premarket": 3.2,
+        "volume": 100,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "shares_value",
+            "existing"
+        ],
+        "shortable": false,
+        "exchange_name": "NASD",
+        "market_cap": 6.26672,
+        "tradeable": false
+    },
+    {
+        "symbol": "CJJD",
+        "company": "China Jo-Jo Drugstores, Inc.",
+        "change_pct": 101.48,
+        "premarket": 1.36,
+        "volume": 31826100,
+        "category": "g",
+        "source": "tv",
+        "fails": [],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 13.74709,
+        "tradeable": true
+    },
+    {
+        "symbol": "VRAX",
+        "company": "Virax Biolabs Group Limited",
+        "change_pct": 41.18,
+        "premarket": 0.852,
+        "volume": 7028099,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "premarket"
+        ],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 9.38267,
+        "tradeable": false
+    },
+    {
+        "symbol": "AKA",
+        "company": "a.k.a. Brands Holding Corp.",
+        "change_pct": 32.72,
+        "premarket": 0.5399,
+        "volume": 671644,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "premarket"
+        ],
+        "shortable": true,
+        "exchange_name": "NYSE",
+        "market_cap": 52.40225,
+        "tradeable": false
+    },
+    {
+        "symbol": "GETR",
+        "company": "Getaround, Inc.",
+        "change_pct": 27.96,
+        "premarket": 0.3263,
+        "volume": 6094100,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "premarket"
+        ],
+        "shortable": false,
+        "exchange_name": "NYSE",
+        "market_cap": 23.48192,
+        "tradeable": false
+    },
+    {
+        "symbol": "LUNR",
+        "company": "Intuitive Machines, Inc.",
+        "change_pct": 23.85,
+        "premarket": 12.88,
+        "volume": 1724100,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "existing"
+        ],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 875.3946,
+        "tradeable": false
+    },
+    {
+        "symbol": "BBBY",
+        "company": "Bed Bath & Beyond Inc.",
+        "change_pct": 22.42,
+        "premarket": 0.4199,
+        "volume": 66046100,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "premarket"
+        ],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 160.0291,
+        "tradeable": false
+    },
+    {
+        "symbol": "WAL",
+        "company": "Western Alliance Bancorporation",
+        "change_pct": 20.15,
+        "premarket": 39.06,
+        "volume": 767363,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "existing"
+        ],
+        "shortable": true,
+        "exchange_name": "NYSE",
+        "market_cap": 3563.578,
+        "tradeable": false
+    },
+    {
+        "symbol": "GNPX",
+        "company": "Genprex, Inc.",
+        "change_pct": 14.74,
+        "premarket": 1.09,
+        "volume": 1897100,
+        "category": "g",
+        "source": "tv",
+        "fails": [],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 49.37537,
+        "tradeable": true
+    },
+    {
+        "symbol": "MCB",
+        "company": "Metropolitan Bank Holding Corp.",
+        "change_pct": 14.29,
+        "premarket": 35.2,
+        "volume": 32356,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "existing"
+        ],
+        "shortable": true,
+        "exchange_name": "NYSE",
+        "market_cap": 337.6016,
+        "tradeable": false
+    },
+    {
+        "symbol": "WINT",
+        "company": "Windtree Therapeutics, Inc.",
+        "change_pct": 12.76,
+        "premarket": 7.51,
+        "volume": 884225,
+        "category": "g",
+        "source": "tv",
+        "fails": [
+            "existing"
+        ],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 6.05403,
+        "tradeable": false
+    },
+    {
+        "symbol": "ALLR",
+        "company": "Allarity Therapeutics, Inc.",
+        "change_pct": -32.38,
+        "premarket": 0.78,
+        "volume": 5447100,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket",
+            "is_shortable"
+        ],
+        "shortable": false,
+        "exchange_name": "NASD",
+        "market_cap": 1.13662,
+        "tradeable": false
+    },
+    {
+        "symbol": "FEMY",
+        "company": "Femasys Inc.",
+        "change_pct": -24.61,
+        "premarket": 0.95,
+        "volume": 75222,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket",
+            "is_shortable"
+        ],
+        "shortable": false,
+        "exchange_name": "NASD",
+        "market_cap": 14.95944,
+        "tradeable": false
+    },
+    {
+        "symbol": "OBLG",
+        "company": "Oblong Inc.",
+        "change_pct": -24.29,
+        "premarket": 2.61,
+        "volume": 63693,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "existing"
+        ],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 7.08975,
+        "tradeable": false
+    },
+    {
+        "symbol": "AGFY",
+        "company": "Agrify Corporation",
+        "change_pct": -23.3,
+        "premarket": 0.2301,
+        "volume": 1988100,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket"
+        ],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 6.22229,
+        "tradeable": false
+    },
+    {
+        "symbol": "GMDA",
+        "company": "Gamida Cell Ltd.",
+        "change_pct": -23.08,
+        "premarket": 1.3,
+        "volume": 8254099,
+        "category": "l",
+        "source": "tv",
+        "fails": [],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 137.7256,
+        "tradeable": true
+    },
+    {
+        "symbol": "SLGG",
+        "company": "Super League Gaming, Inc.",
+        "change_pct": -22.84,
+        "premarket": 0.51,
+        "volume": 436831,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket"
+        ],
+        "shortable": true,
+        "exchange_name": "NASD",
+        "market_cap": 24.85755,
+        "tradeable": false
+    },
+    {
+        "symbol": "UFAB",
+        "company": "Unique Fabricating, Inc.",
+        "change_pct": -19.52,
+        "premarket": 0.2,
+        "volume": 601752,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket"
+        ],
+        "shortable": true,
+        "exchange_name": "AMEX",
+        "market_cap": 25.81695,
+        "tradeable": false
+    },
+    {
+        "symbol": "ID",
+        "company": "PARTS iD, Inc.",
+        "change_pct": -15.69,
+        "premarket": 0.253,
+        "volume": 155449,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket",
+            "is_shortable"
+        ],
+        "shortable": false,
+        "exchange_name": "AMEX",
+        "market_cap": 206.3389,
+        "tradeable": false
+    },
+    {
+        "symbol": "FOXO",
+        "company": "FOXO Technologies Inc.",
+        "change_pct": -15.11,
+        "premarket": 0.65,
+        "volume": 252439,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket",
+            "is_shortable"
+        ],
+        "shortable": false,
+        "exchange_name": "AMEX",
+        "market_cap": 130.5116,
+        "tradeable": false
+    },
+    {
+        "symbol": "VS",
+        "company": "Versus Systems Inc.",
+        "change_pct": -14.3,
+        "premarket": 0.7456,
+        "volume": 251373,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket",
+            "is_shortable"
+        ],
+        "shortable": false,
+        "exchange_name": "NASD",
+        "market_cap": 9.29349,
+        "tradeable": false
+    },
+    {
+        "symbol": "SABS",
+        "company": "SAB Biotherapeutics, Inc.",
+        "change_pct": -14.23,
+        "premarket": 0.93,
+        "volume": 346129,
+        "category": "l",
+        "source": "tv",
+        "fails": [
+            "premarket",
+            "is_shortable"
+        ],
+        "shortable": false,
+        "exchange_name": "NASD",
+        "market_cap": 54.93356,
+        "tradeable": false
+    }
+]
